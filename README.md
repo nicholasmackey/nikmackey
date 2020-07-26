@@ -1,4 +1,4 @@
-## Howdy! 👋
+# Howdy! 🤙
 
 ### I'm a aspiring developer in Dallas, TX.
 
