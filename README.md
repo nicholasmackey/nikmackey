@@ -1,10 +1,10 @@
 ## Howdy! 👋
 
-I'm a aspiring developer in Dallas, TX.
+### I'm a aspiring developer in Dallas, TX.
 
-- 🌱 I’m currently learning JavaScript Fundmentals
+- 🌱 I’m currently learning **JavaScript Fundmentals**
 - 📫 How to reach me: [Email me!](mailto:nicholasamackey@gmail.com)
 - ⚡ Fun facts: 
     * Vegan for 10 years 🤟 🌱
     * Musician 
-    * Addicted to Watermelon Waterloos 
+    * Addicted to Watermelon Waterloos 🍉✨
