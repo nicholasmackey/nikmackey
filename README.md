@@ -4,6 +4,6 @@
 
 - I’m currently learning **JavaScript Fundmentals**. 💻 
 
-* Vegan 🤟 🌱
-* Musician 🎸
-* Addicted to Watermelon Waterloos 🍉✨
+* Vegan
+* Musician 
+* Addicted to Watermelon Waterloos
